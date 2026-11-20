@@ -1,4 +1,4 @@
-# RTSP-Scanner-Camera---PowerShell
+# RTSP-Scanner-Camera-PowerShell
 <h1>PowerShell RTSP Network Scanner / PowerShell RTSP-сканер сети</h1>
 
 <p><strong>[EN]</strong> A lightweight multi-threaded PowerShell diagnostic utility for discovering and inventorying RTSP video streams (IP cameras, NVRs) within a local network.<br>
